@@ -1,1 +1,1 @@
-Exercise of sharding and resahrding data in a database.
+Exercise of sharding and resharding data in a database.
