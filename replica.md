@@ -1,4 +1,5 @@
-[logo]: http://www.google.com/images/logo.gif
+[master-master]: master-master.png
+[master-slave]: master-slave.png
 
 # Escenario Ficticio para master-master
 
@@ -8,6 +9,9 @@
     método de replicación permite que los datos esten alojados en distintas
     computadoras y actualizados por cualquiera de estas computadoras. De esta
     manera cualquier nodo puede responder peticiones de los clientes.  
+
+[master-master]
+    
 
 # Escenario Ficticio para master-slave
 
@@ -21,4 +25,4 @@
     entre otras cosas, como por ejemplo hacer consultas sobre la réplica sin
     afectar a la base de datos principal.   
 
-[logo]
+[master-slave]
